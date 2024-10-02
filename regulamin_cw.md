@@ -30,6 +30,17 @@ Na wybranych zajęciach odbędą się zadania dodatkowe (umożliwiające zdobyci
 
 ## 3. Projekt zaliczeniowy.
 
+Projekt zaliczeniowy polega na stworzeniu aplikacji w postacji gry za pomocą środowiska Unity. Projekt oceniany jest w zakresie 0-100 punktów. 
+
+Zasady realizacji:
+
+* Temat aplikacji powinien zostać zgłoszony do końca października. Tematyka nie może łamać zasad współżycia społecznego i zostać sklasyfikowana jako PEGI 16 <https://pegi.info/pl>. Deskryptory treści są dopuszcalne, o ile prawo obowiązujące w Polsce na to pozwala.
+* Do oceny powinien zostać przedstawiony projekt Unity oraz kody wynikowy (build).
+* Sugerowane platformy docelowe: PC (Standalone-Windows), PC (Standalone-Linux), WebGL, Android. Stworzenie aplikacji na pozostałe platformy jest możliwe, o ile zostanie zademenstrowane działania na realnym urządzeniu (nie emulatorze).
+* W trakcie realizacji projektu można wykorzystać dowolne gotowe zasoby (assety), o ile informacja o ich wykorzystaniu została umieszczona jako tzw. Credits. Wykorzystanie elementy nie podlegają wówczas ocenie jako praca własna. Brak lub błędna informacja o wykorzystanych materiałach może skutkować postępowanie dyscyplinarnym zgodnie z odpowiednimi przepisami.
+* Prowadzący zajęcia może dokonać kontrolnej "odpytki" z projektu w zakresie samodzielności jego wykonania.
+* Kryteria oceny projektu są umieszczone w osobnym pliku i mogą być uszczegółowione na podstawie pojawiających się pytań.
+
 ## 4. Zasady usprawiedliwiania nieobecności na zajęciach.
 
 Nieobecności na zajęciach będą usprawiedliwiane na podstawie usprawiedliwień pisemnych poświadczonych odpowiednim podpisem (ew. brak podpisu musi wynikać z przepisów szczególnych). 
