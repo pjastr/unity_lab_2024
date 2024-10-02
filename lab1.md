@@ -9,8 +9,7 @@
 ### Ścieżka programistyczna
 
 * Stworzenie własnego elementu w inspektorze (Custom Inspector)
-* 
-Instrukcja https://docs.unity3d.com/Manual/UIE-HowTo-CreateCustomInspector.html
+* Instrukcja https://docs.unity3d.com/Manual/UIE-HowTo-CreateCustomInspector.html
 
 ## Zadania punktowane
 
