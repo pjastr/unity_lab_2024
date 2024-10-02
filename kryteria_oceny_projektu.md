@@ -33,4 +33,4 @@ Punkt odniesienia dla minimalnego projektu na 50 punktów:
 * modyfikacja grafik i muzyki z zachowaniem finalnego spójnego stylu
 * poprawienie ew. błędów w kodzie, które nie są zgodne z dobrymi praktykami (np. w zakresie hermetyzacji)
 * rozbudowanie kodu o 3 własne skrypty związane z nową funkcjonalnością/logiką.
-* dodanie spłash image, informacje o PEGI, ew. credits.
+* dodanie splash image, informacje o PEGI, ew. credits.
