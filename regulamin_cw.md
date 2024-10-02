@@ -51,7 +51,7 @@ Maksymalna liczba punktów do zdobycia to 100 (nadmiarowe punkty nie będą uwzg
 -   81 -- 90 pkt -- db+ (4,5)
 -   91 -- 100 pkt -- bdb (5,0)
 
-Z przedmiotuw zakresie ćwiczeń nie jest przewidzian poprawa.
+Z przedmiotu w zakresie ćwiczeń nie jest przewidzian poprawa.
 
 ## 7. Inne.
 
