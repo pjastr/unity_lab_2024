@@ -32,3 +32,9 @@ Bezpłatne tekstuty można znaleźć np. tutaj:
 
 - Opcjonalnie dodatkowo 1pkt: część implementacji modelowania za pomocą
   kodu.
+
+Wybrane tutoriale:
+
+- https://www.youtube.com/watch?v=YtzIXCKr8Wo
+- https://www.youtube.com/watch?v=cOSxvvnGnuM&list=PLs_yJ-RML1YeM2KbHbVKh50CkwINm-biV
+- https://www.youtube.com/watch?v=ElNfaUFpqmc&list=PLuVz-FGt23yLxDo1bjaFoslJoS3Ds5Iw\_

@@ -62,7 +62,9 @@ Można też przełączyć się z tekstu na ikony.
 
 ![](images/p8.png)
 
-![](images/p8.png)
+![](images/p8.png) \## Menu do edycji
+
+![](images/p12.png)
 
 ## Tworzenie pre-definiowanych kształtów
 
@@ -75,3 +77,67 @@ Można też przełączyć się z tekstu na ikony.
 <https://docs.unity3d.com/Packages/com.unity.probuilder@5.2/manual/workflow-create-polyshape.html>
 
 ![](images/p10.png)
+
+## Prymitywy
+
+<https://docs.unity3d.com/Packages/com.unity.probuilder@6.0/manual/Arch.html>
+
+- Łuk
+- Stożek
+- Sześcian
+- Walec
+- Drzwi
+- Rura
+- Płaszczyzna
+- Pryzmat
+- Kula
+- Sprite
+- Schody
+- Torus
+
+## Lista akcji
+
+<https://docs.unity3d.com/Packages/com.unity.probuilder@6.0/manual/ref_actions.html>
+
+## Różne porady
+
+<https://docs.unity3d.com/Packages/com.unity.probuilder@6.0/manual/workflow-edit-tips.html#tjoint>
+
+1.  **Zarządzanie geometrią**:
+    - Staraj się unikać skomplikowanej geometrii, która może powodować
+      błędy w renderowaniu lub kłopoty podczas edycji.
+    - Korzystaj z opcji optymalizacji i upraszczania geometrii, aby
+      zapewnić płynne działanie w edytorze.
+2.  **Unikanie “T-Jointów”**:
+    - Tzw. “T-Jointy” (łączenia w kształcie litery “T”) mogą powodować
+      artefakty graficzne i problemy z renderowaniem.
+    - Staraj się, aby krawędzie obiektów zawsze stykały się w sposób
+      bezpośredni i unikały tworzenia takich łączeń.
+3.  **Korzystanie z narzędzi do przekształcania**:
+    - Wykorzystuj narzędzia przekształcania (skalowania, przesuwania,
+      obracania) dostępne w ProBuilderze, aby precyzyjnie dopasować
+      kształty do pożądanych proporcji i pozycji.
+    - Pamiętaj o korzystaniu z trybów pracy w przestrzeni lokalnej oraz
+      globalnej w zależności od potrzeb.
+4.  **Praca z materiałami**:
+    - Używaj funkcji przypisywania materiałów w ProBuilderze, aby
+      upewnić się, że każdy element modelu ma przypisany odpowiedni
+      materiał.
+    - Pamiętaj o opcji szybkiego przypisywania tekstur za pomocą funkcji
+      „Material Editor” w ProBuilderze.
+5.  **Unikanie niepotrzebnych krawędzi i wierzchołków**:
+    - Usuwaj zbędne krawędzie i wierzchołki, które mogą powodować
+      nadmierne złożoności geometrii i spowalniać proces edycji.
+    - Korzystaj z narzędzi do „Weldowania” (łączenia) wierzchołków, aby
+      utrzymać czystą topologię siatki.
+6.  **Optymalizacja UV**:
+    - Pamiętaj o ręcznej optymalizacji mapowania UV, aby tekstury były
+      prawidłowo wyświetlane na modelach.
+    - Korzystaj z narzędzi do automatycznego rozkładania UV, ale zawsze
+      sprawdzaj ich wynik i w razie potrzeby dostosuj ręcznie.
+7.  **Częsta kontrola modelu**:
+    - Regularnie sprawdzaj swój model z różnych perspektyw, aby upewnić
+      się, że nie ma błędów ani deformacji.
+    - Wykorzystuj opcję podglądu w trybie „Shaded Wireframe” (cieniowany
+      widok z siatką), aby dokładnie ocenić rozmieszczenie krawędzi i
+      wierzchołków.
