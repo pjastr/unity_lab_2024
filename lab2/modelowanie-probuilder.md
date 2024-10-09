@@ -50,4 +50,4 @@ Dla projektów URP i HDRP trzeba zainstalować jednej z sampli.
 
 Animacja dla 3D (Built-in Render Pipeline):
 
-![](images/p5.gif)
+<img src="/images/p5.gif" width="700">
