@@ -29,6 +29,30 @@ Instalacja opisana jest tutaj https://docs.unity3d.com/Packages/com.unity.probui
 
 Dla projektów URP i HDRP trzeba zainstalować jednej z sampli.
 
-Animacja dla 3D (Built-in Render Pipeline):
+![](images/p5.png)
 
-<img src="/images/p5.gif" width="700">
+## Włączenie menu
+
+Do Proubuildera jest dedykowane menu.
+
+![](images/p6.png)
+
+Można też przełączyć się z tekstu na ikony.
+
+![](images/p7.png)
+
+![](images/p8.png)
+
+![](images/p8.png)
+
+## Tworzenie pre-definiowanych kształtów
+
+<https://docs.unity3d.com/Packages/com.unity.probuilder@5.2/manual/workflow-create-predefined.html>
+
+![](images/p9.png)
+
+## Tworzenie wielościanów
+
+<https://docs.unity3d.com/Packages/com.unity.probuilder@5.2/manual/workflow-create-polyshape.html>
+
+![](images/p10.png)

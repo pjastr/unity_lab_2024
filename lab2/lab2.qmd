@@ -1,0 +1,10 @@
+---
+title: "Laboratorium #2"
+lang: pl
+format: gfm
+---
+
+* Unity a Githuba
+* Podstawy modelowania 3D za pomocą Probuildera
+
+[](/modelowanie-probuilder.md)
