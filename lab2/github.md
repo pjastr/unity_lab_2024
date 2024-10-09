@@ -13,7 +13,7 @@ Plik powinien być dodany na poziomie głównego katalogu projektu Unity.
 
 Przykładowy wygląd projektu.
 
-![](p1.png)
+![](images/p1.png)
 
 Częste błędy:
 
@@ -28,13 +28,13 @@ Dla większości kod i standardowych repozytoriów na Githubie dostępna
 jest w przeglądarce sekcja Releases gdzie powinny publikowane build
 (pliki wykonywane aplikacji, nie tylko gier).
 
-![](p2.png)
+![](images/p2.png)
 
 Plik wykonywalny powinien zostać spakowany w archiwum (np. dla Windows
 zip - rar na uczelni nie jest zalecany, dla linuxa np. tar itp itd).
 
 Potem do wypełnienia jest prosty formularz:
 
-![](p3.png)
+![](images/p3.png)
 
 Więcej informacji o semantyce wersjonowania <https://semver.org/>.
