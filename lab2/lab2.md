@@ -2,6 +2,5 @@
 
 
 - Unity a Githuba
-- Podstawy modelowania 3D za pomocą Probuildera
-
-[](.\modelowanie-probuilder.md)
+- Podstawy modelowania 3D za pomocą
+  Probuildera[](modelowanie-probuilder.md)
