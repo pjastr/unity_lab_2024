@@ -94,3 +94,7 @@ Przeanalizuj teraz zmiany w pliku
 1.  Stwórz nową scenę, dodaj nowy pusty obiekt gry i przeanalizuj
     poniższy skrypt podpięty pod ten obiekt:
     [CollectionBenchmark.cs](CollectionBenchmark.cs)
+
+## Zadanie dodatkowe
+
+- Wysłanie projektu Unity (nie buildu) z wykonanym ćwiczeniami - 1pkt.
