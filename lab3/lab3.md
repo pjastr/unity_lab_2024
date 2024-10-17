@@ -95,13 +95,13 @@ Przeanalizuj teraz zmiany w pliku
     poniższy skrypt podpięty pod ten obiekt:
     [CollectionBenchmark.cs](CollectionBenchmark.cs)
 
-## Ćw \#9B - ref i out
+## Ćw \#10 - ref i out
 
 1.  Stwórz nową scenę, dodaj nowy pusty obiekt gry i przeanalizuj
     poniższy skrypt podpięty pod ten obiekt:
     [RefOutExample.cs](RefOutExample.cs)
 
-## Ćw \#10 - leniwe wyrzucanie `yield`
+## Ćw \#11 - leniwe wyrzucanie `yield`
 
 1.  Stwórz nową scenę, dodaj nowy pusty obiekt gry i przeanalizuj
     poniższy skrypt podpięty pod ten obiekt:
