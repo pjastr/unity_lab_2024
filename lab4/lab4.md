@@ -91,7 +91,6 @@ public class PlayerController : MonoBehaviour
     private Rigidbody rb;
     private float movementX;
     private float movementY;
-    private bool isJumping = false;
     public float speed = 5;
 
     void Start()
