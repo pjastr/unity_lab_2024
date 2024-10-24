@@ -55,7 +55,7 @@ Na koniec zmień wartości na domyślne.
 ``` csharp
 public class CollisionDetect : MonoBehaviour
 {
-    public void OnCollisionEnter(Collision collision)
+    void OnCollisionEnter(Collision collision)
     {
         Debug.Log("Collision Detected");
         Debug.Log(collision.gameObject.name);
@@ -121,8 +121,8 @@ public class PlayerController : MonoBehaviour
 Potestuj zmiany różnych opcji argumentów w `AddForce`. Co się zmieni
 przy użyciu `AddTorque`?
 
-9.  Spróbuj połączyć kilka obiektów jednym rodzajem połączeń (ang.
-    jointów) <https://docs.unity3d.com/Manual/joints-section.html>
+~~9.  Spróbuj połączyć kilka obiektów jednym rodzajem połączeń (ang.
+    jointów) <https://docs.unity3d.com/Manual/joints-section.html>~~
 
 ## Zadanie dodatkowe (1-2 pkt)
 
