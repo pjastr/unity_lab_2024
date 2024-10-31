@@ -104,6 +104,8 @@ public class CapsuleController : MonoBehaviour
 
         // Ruch postaci na podstawie wartości moveInput
         Vector3 move = new Vector3(moveInput.x, 0, moveInput.y);
+        // ew poprawka
+        // Vector3 move = transform.TransformDirection(new Vector3(moveInput.x, 0, moveInput.y));
         controller.Move(move * speed * Time.deltaTime);
 
         // Obrót postaci (wokół osi Y)
