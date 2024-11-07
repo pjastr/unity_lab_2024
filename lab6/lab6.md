@@ -160,6 +160,8 @@ To all our families and friends for their support!
 <align=center><size=20><b>Visit Our Website</b></size></align>
 <color=#0000FF><link="https://www.ourgame.com">www.ourgame.com</link></color>
 
+<align=center><size=28><b>Assets Used</b></size></align>
+
 <color=#FF4500>Environment Pack:</color> <b>Fantasy Forest Set</b> by <i>ABC Studios</i> (License: Commercial)  
 Website: <link="https://www.abcstudios.com">abcstudios.com</link> | Downloaded on: 15 March 2023
 
