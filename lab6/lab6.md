@@ -46,7 +46,7 @@ panel znikał, a pojawiał się inny do sterowania ustawieniami.
 
 ## Ćw.3. - Ustawienia cz.2.
 
-Stwórz prostą logikę do sterowania ustawieniami np. rozdzielczością (ale
+Stwórz prostą logikę do sterowania ustawieniami np. rozdzielczością poprzez DropDown (ale
 mogą być inne opcje). Upewnij się, ze masz zaimplementowany powrót to
 głównego menu.
 
