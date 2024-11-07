@@ -106,7 +106,7 @@ Dodaj panel z creditsami, do którego można wejśc z menu.
 
 - dodaj panel
 - na panel Dodaj Scroll View - ustal jego rozmiar jak potrzeba.
-- usuń horyzontal scrollbar z hierarchii. Odhacz tez dla ScrollView
+- usuń horizontal scrollbar z hierarchii. Odhacz tez dla ScrollView
   horizontal.
 
 Po tym powinno być mniej więcej:
