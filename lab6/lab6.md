@@ -44,7 +44,7 @@ panel znikał, a pojawiał się inny do sterowania ustawieniami.
     }
 ```
 
-## Ćw.3. - Ustawienia cz.2.
+## Ćw.4. - Ustawienia cz.2.
 
 Stwórz prostą logikę do sterowania ustawieniami np. rozdzielczością poprzez DropDown (ale
 mogą być inne opcje). Upewnij się, ze masz zaimplementowany powrót to
@@ -100,7 +100,7 @@ public class ResolutionChanger : MonoBehaviour
 }
 ```
 
-## Ćw.4. - Credits
+## Ćw.5. - Credits
 
 Dodaj panel z creditsami, do którego można wejśc z menu.
 
@@ -233,7 +233,7 @@ public class CreditsLinkHandler : MonoBehaviour, IPointerClickHandler
 
 ![](images/f10.png)
 
-## Ćw.5. - Nawigacja do kolejnych scen
+## Ćw.6. - Nawigacja do kolejnych scen
 
 Dodaj do projektu nawigację do kolejnych scen. Upewnij się, że sceny są
 ujęte w Build Setting.
@@ -252,7 +252,7 @@ ujęte w Build Setting.
     }
 ```
 
-## Ćw.6. Wyjście
+## Ćw.7. Wyjście
 
 Dodaj obsługę wyjścia z aplikacji za pomocą `Application.Quit()`.
 
