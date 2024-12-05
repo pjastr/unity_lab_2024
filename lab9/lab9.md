@@ -9,7 +9,7 @@ Cel: otworzenie prostej mechaniki 2D z wykładu.
 
 - https://www.piskelapp.com/ (rozmiar 400x400, export jako png)
 - lub
-  https://github.com/gljmelton/UnityAnimatorDemo/tree/master/Assets/Player
+  https://github.com/gljmelton/UnityAnimatorDemo/tree/master/Assets/
 - https://itch.io/game-assets/free/tag-sprites
 
 ## Ćw.2. - Import obrazków do Unity
